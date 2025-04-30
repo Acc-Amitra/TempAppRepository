@@ -13,6 +13,7 @@
 Ami_Sample_Script_Include.prototype = {
     initialize: function() {
 		//Comment1
+		//comment2
     },
 
     type: 'Ami_Sample_Script_Include'
@@ -21,13 +22,13 @@ Ami_Sample_Script_Include.prototype = {
         <sys_created_by>amitra.sudan.bhunia</sys_created_by>
         <sys_created_on>2025-04-29 15:22:31</sys_created_on>
         <sys_id>5de01f843b9d26102f85931864e45a86</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Ami_Sample_Script_Include</sys_name>
         <sys_package display_value="Amitra Sample App" source="x_accu3_amitra_sam">f4201b803b9d26102f85931864e45aa1</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Amitra Sample App">f4201b803b9d26102f85931864e45aa1</sys_scope>
         <sys_update_name>sys_script_include_5de01f843b9d26102f85931864e45a86</sys_update_name>
         <sys_updated_by>amitra.sudan.bhunia</sys_updated_by>
-        <sys_updated_on>2025-04-29 15:22:31</sys_updated_on>
+        <sys_updated_on>2025-04-30 04:51:41</sys_updated_on>
     </sys_script_include>
 </record_update>
